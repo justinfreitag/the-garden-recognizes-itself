@@ -1,2 +1,6 @@
 .*
 output/
+bin/
+*.pdf
+*.adoc
+*.pem
